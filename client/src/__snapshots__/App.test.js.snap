@@ -1,0 +1,292 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> renders 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="jumbotron mt-5"
+  >
+    <div
+      className="col-sm-8 mx-auto"
+    >
+      This is a udemy clone, made with react, node, express and mongo
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<App /> renders 2`] = `
+<div
+  className="container"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col-md-6 mt-5 mx-auto"
+    >
+      <form
+        onSubmit={[Function]}
+        onValidate={true}
+      >
+        <h1
+          className="h2 mb-2 font-weight-bold"
+        >
+          Register a Account
+        </h1>
+        <div
+          className="form-group"
+        >
+          <label
+            htmlFor="firstName"
+          >
+            First Name
+          </label>
+          <input
+            className="form-control"
+            name="firstName"
+            onChange={[Function]}
+            placeholder="Your First Name"
+            type="text"
+            value=""
+          />
+          <label
+            htmlFor="lastName"
+          >
+            Last Name
+          </label>
+          <input
+            className="form-control"
+            name="lastName"
+            onChange={[Function]}
+            placeholder="Your Last Name"
+            type="text"
+            value=""
+          />
+          <label
+            htmlFor="email"
+          >
+            Email
+          </label>
+          <input
+            className="form-control"
+            name="email"
+            onChange={[Function]}
+            placeholder="Enter Your Email"
+            type="email"
+            value=""
+          />
+          <label
+            htmlFor="password"
+          >
+            Password
+          </label>
+          <input
+            className="form-control"
+            name="password"
+            onChange={[Function]}
+            placeholder="Enter Your Password"
+            type="password"
+            value=""
+          />
+          <label
+            htmlFor="isTeacher"
+          >
+            Are you a Teacher?
+          </label>
+          <input
+            className="form-control"
+            name="isTeacher"
+            onChange={[Function]}
+            type="checkbox"
+            value={false}
+          />
+        </div>
+        <button
+          className="btn btn-lg btn-primary btn-block"
+          type="submit"
+        >
+          Register
+        </button>
+      </form>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<App /> renders landing page 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="jumbotron mt-5"
+  >
+    <div
+      className="col-sm-8 mx-auto"
+    >
+      This is a udemy clone, made with react, node, express and mongo
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<App /> renders login page 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col-md-6 mt-5 mx-auto"
+    >
+      <form
+        onSubmit={[Function]}
+        onValidate={true}
+      >
+        <h1
+          className="h2 mb-2 font-weight-bold"
+        >
+          Login
+        </h1>
+        <div
+          className="form-group"
+        >
+          <label
+            htmlFor="email"
+          >
+            Email
+          </label>
+          <input
+            className="form-control"
+            name="email"
+            onChange={[Function]}
+            placeholder="Enter Your Email"
+            type="email"
+            value=""
+          />
+          <label
+            htmlFor="password"
+          >
+            Password
+          </label>
+          <input
+            className="form-control"
+            name="password"
+            onChange={[Function]}
+            placeholder="Enter Your Password"
+            type="password"
+            value=""
+          />
+        </div>
+        <button
+          className="btn btn-lg btn-primary btn-block"
+          type="submit"
+        >
+          Login
+        </button>
+      </form>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<App /> renders register page 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col-md-6 mt-5 mx-auto"
+    >
+      <form
+        onSubmit={[Function]}
+        onValidate={true}
+      >
+        <h1
+          className="h2 mb-2 font-weight-bold"
+        >
+          Register a Account
+        </h1>
+        <div
+          className="form-group"
+        >
+          <label
+            htmlFor="firstName"
+          >
+            First Name
+          </label>
+          <input
+            className="form-control"
+            name="firstName"
+            onChange={[Function]}
+            placeholder="Your First Name"
+            type="text"
+            value=""
+          />
+          <label
+            htmlFor="lastName"
+          >
+            Last Name
+          </label>
+          <input
+            className="form-control"
+            name="lastName"
+            onChange={[Function]}
+            placeholder="Your Last Name"
+            type="text"
+            value=""
+          />
+          <label
+            htmlFor="email"
+          >
+            Email
+          </label>
+          <input
+            className="form-control"
+            name="email"
+            onChange={[Function]}
+            placeholder="Enter Your Email"
+            type="email"
+            value=""
+          />
+          <label
+            htmlFor="password"
+          >
+            Password
+          </label>
+          <input
+            className="form-control"
+            name="password"
+            onChange={[Function]}
+            placeholder="Enter Your Password"
+            type="password"
+            value=""
+          />
+          <label
+            htmlFor="isTeacher"
+          >
+            Are you a Teacher?
+          </label>
+          <input
+            className="form-control"
+            name="isTeacher"
+            onChange={[Function]}
+            type="checkbox"
+            value={false}
+          />
+        </div>
+        <button
+          className="btn btn-lg btn-primary btn-block"
+          type="submit"
+        >
+          Register
+        </button>
+      </form>
+    </div>
+  </div>
+</div>
+`;
